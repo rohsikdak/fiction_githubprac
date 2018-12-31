@@ -1,3 +1,5 @@
-첫번째 git 푸쉬
+first git push
+
+wam
 
 branch pupu
